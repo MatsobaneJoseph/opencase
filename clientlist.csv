@@ -1,3 +1,4 @@
-name,surname,idnumber,casetype,casenumber,date,nextcourt,notes
-Matsobane,Mmolawa,9207086142087,civil,20062025000001,20-06-2025,20-07-2025,unpaid fees
-Joseph,Langa,6201085234087,civil,29062025000002,29-06-2025,27-07-2025,paid fees
+name,surname,idnumber,email,cellphone,casetype,casenumber,date,nextcourt,notes
+Matsobane,Mmolawa,9207086142087,matsobane@gmail.com,0760131447,civil,20062025000001,20-06-2025,20-07-2025,unpaid fees
+Joseph,Langa,6201085234087,civil,29062025000002,joseph@gmail.com,0728225759,29-06-2025,27-07-2025,paid fees
+
