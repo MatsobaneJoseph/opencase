@@ -1,10 +1,11 @@
 ProductTable_id,owning_key,Product Code,Product Description,Type,Attorney,Status,Start Date,End Date
 1,9207086142087,LCB,Legal Cover Basic,Insurance,NomceboM,Active,2025-11-09,2025-10-16
-2,9207086142087,CRS,Contract Review Service,Consultantion,ThulisileM,Pending,2025-09-19,2025-04-12
-3,9207086142087,LAH,Legal Advice Hotline,Support,NqobileM,Expired,2025-06-04,2025-06-08
+2,9207086142087,CRS,Contract Review Service,Contract,ThulisileM,Pending,2025-09-19,2025-04-12
+3,9207086142087,LAH,Legal Advice Hotline,Policy,NqobileM,Expired,2025-06-04,2025-06-08
 4,6201085234087,LCB,Legal Cover Basic,Insurance,NomceboM,Active,2025-01-30,2025-08-14
-5,6201085234087,CRS,Contract Review Service,Consultantion,ThulisileM,Pending,2025-06-29,2025-07-07
-6,6201085234087,LAH,Legal Advice Hotline,Support,NqobileM,Expired,2025-06-29,2025-03-27
+5,6201085234087,CRS,Contract Review Service,Contract,ThulisileM,Pending,2025-06-29,2025-07-07
+6,6201085234087,LAH,Legal Advice Hotline,Policy,NqobileM,Expired,2025-06-29,2025-03-27
+
 
 
 
