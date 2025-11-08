@@ -1,0 +1,3 @@
+appointment_id,lead_product_id,client_person_id,appointment_category_id,naration,date,create_date,expiry_date,place,attendees,address_id
+1,1,1,1,First meeting with client,25-12-2025,13-09-2025,26-12-2025,Mams mall,percym|nomcebom,2
+2,2,2,2,Court Preparation,25-10-2025,13-09-2025,26-10-2025,Building 1,percym|nomcebom|matsobanem,1
