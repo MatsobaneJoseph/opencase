@@ -1,9 +1,10 @@
-OwningKey,ProductCode,ProductDescription,Type,Arttoney,Status,Start Date,End Date
-9207086142087,LCB,Legal Cover Basic,Insurance,NomceboM,Active,20-06-2025,20-07-2025
-9207086142087,CRS,Contract Review Service,Consultantion,ThulisileM,Pending,29-06-2025,27-07-2025
-9207086142087,LAH,Legal Advice Hotline,Support,NqobileM,Expired,29-06-2025,27-07-2025
-6201085234087,LCB,Legal Cover Basic,Insurance,NomceboM,Active,20-06-2025,20-07-2025
-6201085234087,CRS,Contract Review Service,Consultantion,ThulisileM,Pending,29-06-2025,27-07-2025
-6201085234087,LAH,Legal Advice Hotline,Support,NqobileM,Expired,29-06-2025,27-07-2025
+producttable_id,owning_key,Product Code,Product Description,Type,Arttoney,Status,Start Date,End Date
+1,9207086142087,LCB,Legal Cover Basic,Insurance,NomceboM,Active,20-06-2025,20-07-2025
+2,9207086142087,CRS,Contract Review Service,Consultantion,ThulisileM,Pending,29-06-2025,27-07-2025
+3,9207086142087,LAH,Legal Advice Hotline,Support,NqobileM,Expired,29-06-2025,27-07-2025
+4,6201085234087,LCB,Legal Cover Basic,Insurance,NomceboM,Active,20-06-2025,20-07-2025
+5,6201085234087,CRS,Contract Review Service,Consultantion,ThulisileM,Pending,29-06-2025,27-07-2025
+6,6201085234087,LAH,Legal Advice Hotline,Support,NqobileM,Expired,29-06-2025,27-07-2025
+
 
 
